@@ -1,0 +1,11 @@
+{
+  "name": "grandfather",
+  "version": "1.0.0",
+  "description": "紀念阿公",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry-Hong",
+  "license": "ISC"
+}

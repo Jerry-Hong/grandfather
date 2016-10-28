@@ -1,0 +1,73 @@
+
+/*---------------------------------------------------------------------*/
+/*  1. NAVBAR
+/*---------------------------------------------------------------------*/
+.navbar.navbar-fixed-top .navbar-toggle {
+  background-color: #a9a9a9;
+}
+.navbar.navbar-fixed-top .navbar-nav > li > a:hover {
+  color: #a9a9a9;
+}
+.navbar.navbar-fixed-top .navbar-nav > li.active a,
+.navbar.navbar-fixed-top .navbar-nav > li.active a:hover {
+  background-color: #a9a9a9;
+}
+@media (min-width: 992px) {
+  .navbar.navbar-fixed-top .navbar-nav > li.active a,
+  .navbar.navbar-fixed-top .navbar-nav > li.active a:hover {
+    background-color: #a9a9a9;
+  }
+}
+.navbar-trigger-open a {
+  background-color: #a9a9a9;
+}
+
+
+/*---------------------------------------------------------------------*/
+/*  2. QUOTE SECTION
+/*---------------------------------------------------------------------*/
+#quote > .section-inner > .section-content .quote-text > .quote-icon > i {
+  color: #a9a9a9;
+}
+#quote > .section-inner > .section-content .quote-text > h2.quote-by {
+  color: #a9a9a9;
+}
+
+
+/*---------------------------------------------------------------------*/
+/*  3. KEEP IN TOUCH SECTION
+/*---------------------------------------------------------------------*/
+#keep-in-touch .social-icon-item > a:hover {
+  color: #a9a9a9;
+}
+#keep-in-touch .social-icon-item > a:hover .social-icon > i {
+  color: #a9a9a9;
+}
+
+
+/*---------------------------------------------------------------------*/
+/*  4. CONTACT US SECTION
+/*---------------------------------------------------------------------*/
+#contact-us > .section-inner > .section-content .content-message {
+  background-color: #a9a9a9;
+}
+#contact-us > .section-inner > .section-content .form-group input,
+#contact-us > .section-inner > .section-content .form-group textarea {
+  border-left-color: #a9a9a9;
+}
+#contact-us > .section-inner > .section-content .form-group span {
+  background-color: #a9a9a9;
+  border-color: #a9a9a9;
+}
+#contact-us > .section-inner > .section-content .social-icon-text > h2 {
+  background-color: #a9a9a9;
+  border: 1px solid #2b79a7;
+}
+
+
+/*---------------------------------------------------------------------*/
+/*  5. FOOTER
+/*---------------------------------------------------------------------*/
+footer.footer {
+  border-top: 2px solid #a9a9a9;
+}
