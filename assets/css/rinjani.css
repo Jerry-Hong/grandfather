@@ -890,7 +890,7 @@ span.navbar-trigger-close a:hover {
 /*  12. TESTIMONIALS SECTION
 /*---------------------------------------------------------------------*/
 #testimonials {
-  background-image: url("../img/bg-testimonial.jpg");
+  background-image: url("../img/bg-intro.jpg");
   background-attachment: scroll;
 }
 #testimonials > .section-inner .section-content .section-title {
