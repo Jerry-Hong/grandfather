@@ -97,7 +97,7 @@ $(function() {
             
         }
         else{
-            $('#intro').css('background-image', 'url("../assets/img/video-poster-youtube.jpg")');
+            $('#intro').css('background-image', 'url("../assets/img/bg-intro.jpg")');
             $('.player').css('display', 'none');
         }
     });
